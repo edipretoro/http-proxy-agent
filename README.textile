@@ -15,12 +15,9 @@ bq.	make install
 Alternatively, to install with Module::Build, you can use the following commands:
 
 bq.	perl Build.PL
-
-bq.	./Build
-
-bq.	./Build test
-
-bq.	./Build install
+	./Build
+	./Build test
+	./Build install
 
 h2. SUPPORT AND DOCUMENTATION
 
