@@ -1,40 +1,37 @@
-HTTP-Proxy-Agent
+h1. HTTP-Proxy-Agent
 
-INSTALLATION
+h2. INSTALLATION
 
 To install this module, run the following commands:
 
-	perl Makefile.PL
-	make
-	make test
-	make install
+bq.	perl Makefile.PL
+bq.	make
+bq.	make test
+bq.	make install
 
 Alternatively, to install with Module::Build, you can use the following commands:
 
-	perl Build.PL
-	./Build
-	./Build test
-	./Build install
+bq.	perl Build.PL
+bq.	./Build
+bq.	./Build test
+bq.	./Build install
 
-SUPPORT AND DOCUMENTATION
+h2. SUPPORT AND DOCUMENTATION
 
 After installing, you can find documentation for this module with the
 perldoc command.
 
-    perldoc HTTP::Proxy::Agent
+bq.    perldoc HTTP::Proxy::Agent
 
 You can also look for information at:
 
-    RT, CPAN's request tracker
+*    RT, CPAN's request tracker
         http://rt.cpan.org/NoAuth/Bugs.html?Dist=HTTP-Proxy-Agent
-
-    AnnoCPAN, Annotated CPAN documentation
+*    AnnoCPAN, Annotated CPAN documentation
         http://annocpan.org/dist/HTTP-Proxy-Agent
-
-    CPAN Ratings
+*    CPAN Ratings
         http://cpanratings.perl.org/d/HTTP-Proxy-Agent
-
-    Search CPAN
+*    Search CPAN
         http://search.cpan.org/dist/HTTP-Proxy-Agent/
 
 You can follow the development of this project on GitHub:
