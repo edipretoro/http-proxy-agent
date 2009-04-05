@@ -5,15 +5,21 @@ h2. INSTALLATION
 To install this module, run the following commands:
 
 bq.	perl Makefile.PL
+
 bq.	make
+
 bq.	make test
+
 bq.	make install
 
 Alternatively, to install with Module::Build, you can use the following commands:
 
 bq.	perl Build.PL
+
 bq.	./Build
+
 bq.	./Build test
+
 bq.	./Build install
 
 h2. SUPPORT AND DOCUMENTATION
